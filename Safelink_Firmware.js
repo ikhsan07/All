@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="Vps-Hosting-Comparison.html"}
 if(x=="2"){xxx="virtual-dedicated-server.html"}
 if(x=="3"){xxx="Vps-Windows.html"}
-if(x=="4"){xxx="Virtual-Private-Server.html"}a_to_ve[i].href="https://dl-firmware.blogspot.com/2018/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="Virtual-Private-Server.html"}a_to_ve[i].href="https://www.dl-vixfirmware.ga/2018/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
